@@ -26,7 +26,7 @@ function Hero (props) {
       {!!process.env.GATSBY_DEMO_STORE && (
         <>
           <p className={callOut}>
-            It's a proof-of-concept in a box, with 10k products and 30k variants
+            Lorem Test: It's a proof-of-concept in a box, with 10k products and 30k variants
             to help you get to proof-of-concept as soon as right now.
           </p>
           <p className={callToAction}>
